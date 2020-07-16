@@ -4,6 +4,8 @@
 ████████████████████████████████████████████████████████████████████████████
 ┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨┠┨
 
+I don't do much here. I have friends.
+
 <!--
 **sickDevelopers/sickDevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
